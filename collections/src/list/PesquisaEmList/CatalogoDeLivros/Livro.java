@@ -1,4 +1,4 @@
-package collections.PesquisaEmList.CatalogoDeLivros;
+package list.PesquisaEmList.CatalogoDeLivros;
 
 public class Livro {
 	
