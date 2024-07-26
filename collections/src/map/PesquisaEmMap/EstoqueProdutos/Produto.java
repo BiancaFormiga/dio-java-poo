@@ -1,4 +1,4 @@
-package map.PesquisaEmMap;
+package map.PesquisaEmMap.EstoqueProdutos;
 
 public class Produto {
 	

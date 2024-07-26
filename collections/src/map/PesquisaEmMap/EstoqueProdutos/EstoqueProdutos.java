@@ -1,4 +1,4 @@
-package map.PesquisaEmMap;
+package map.PesquisaEmMap.EstoqueProdutos;
 
 import java.util.HashMap;
 import java.util.Map;
