@@ -1,4 +1,4 @@
-package set.PesquisaEmSet;
+package set.PesquisaEmSet.AgendaDeContatos;
 
 import java.util.HashSet;
 import java.util.Set;
