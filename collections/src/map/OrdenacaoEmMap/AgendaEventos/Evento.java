@@ -1,4 +1,4 @@
-package map.OrdenacaoEmMap;
+package map.OrdenacaoEmMap.AgendaEventos;
 
 public class Evento {
 	
