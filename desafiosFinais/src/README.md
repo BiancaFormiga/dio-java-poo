@@ -1,6 +1,6 @@
-#Desafios para conclusão do curso de Programação Orientada a Objetos com Java da DIO.
+# Desafios para conclusão do curso de Programação Orientada a Objetos com Java da DIO.
 
-#Registro Transações Bancárias
+# Registro Transações Bancárias
 
 Você está desenvolvendo um programa simples em Java para manter um registro de transações bancárias. Cada transação é armazenada em uma lista.
 
@@ -17,7 +17,7 @@ Saída:
 - Utilizando listas (ArrayList ou LinkedList), o programa armazenará cada transação, que incluirá um tipo (Depósito ou Saque) e um valor.
 - Ao final das transações, o programa exibirá o saldo final da conta e a lista de transações.
 
-#Registro de Transações Bancárias com Stream API
+# Registro de Transações Bancárias com Stream API
 
 Você está aprimorando o programa anterior e agora deseja utilizar a Stream API do Java para processar as transações bancárias de forma mais eficiente.
 
@@ -34,9 +34,9 @@ Saída:
 - Utilizando a Stream API, o programa armazenará cada transação, que incluirá um tipo (Depósito ou Saque) e um valor.
 - Ao final das transações, o programa exibirá o saldo final da conta e a lista de transações
 
-#Conta Bancária com Construtor em POO
+# Conta Bancária com Construtor em POO
 
-<p>Você está desenvolvendo um programa simples em Java para representar uma conta bancária. Utilizando programação orientada a objetos (POO), você criará uma classe ContaBancaria com um construtor que permitirá a inicialização da conta com um saldo inicial.
+<p> Você está desenvolvendo um programa simples em Java para representar uma conta bancária. Utilizando programação orientada a objetos (POO), você criará uma classe ContaBancaria com um construtor que permitirá a inicialização da conta com um saldo inicial.
 
 Entrada:
 - O programa solicitará ao usuário que informe o saldo inicial da conta.
@@ -48,7 +48,7 @@ Saída:
 -Se o valor do saque for maior que o saldo disponível na conta, imprima uma mensagem informando: Saldo insuficiente. Saque não realizado.
 
 
-#Herança Bancária: Entendendo a Herança e Polimorfismo
+# Herança Bancária: Entendendo a Herança e Polimorfismo
 
 <p> Após o sucesso no desenvolvimento do sistema básico de abertura de contas bancárias, o banco decidiu expandir seus serviços para oferecer diferentes tipos de contas. Agora, além das contas bancárias comuns, eles também oferecem contas poupança. Sua tarefa é implementar a herança e o polimorfismo no sistema, criando uma classe "ContaPoupanca" que herde da classe "ContaBancaria" anteriormente criada. A classe "ContaPoupanca" deve adicionar um novo atributo, taxa de juros, além dos atributos herdados.
 
@@ -60,7 +60,7 @@ Entrada:
 Saída:
 - Após receber as informações da conta poupança, o programa deve criar um objeto do tipo "ContaPoupanca" e exibir na tela as informações dessa conta, incluindo o número da conta, o nome do titular, o saldo atual e a taxa de juros. A saída deve ser formatada de forma clara e legível para o usuário.
 
-#Cofres Seguros: Dominando o Encapsulamento e Abstração
+# Cofres Seguros: Dominando o Encapsulamento e Abstração
 
 <p> Você foi contratado para desenvolver um sistema de cofres seguros. O objetivo é criar dois tipos de cofres: um Cofre Digital, que é aberto por senha, e um Cofre Físico, que é aberto por chave.
 
